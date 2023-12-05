@@ -1,2 +1,2 @@
 # iac-static-web-app
-Live 360
+Static Web App
