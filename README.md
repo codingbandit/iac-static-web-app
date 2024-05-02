@@ -1,2 +1,2 @@
 # iac-static-web-app
-Hello, Pulumi!
+Hello, Stir Trek!
