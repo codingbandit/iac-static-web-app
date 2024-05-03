@@ -1,2 +1,2 @@
 # iac-static-web-app
-Hello, Stir Trek!
+Hello, Stir Trek - Deploy the app!
